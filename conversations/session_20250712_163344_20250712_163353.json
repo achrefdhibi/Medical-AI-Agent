@@ -1,0 +1,18 @@
+{
+  "session_id": "session_20250712_163344",
+  "timestamp": "2025-07-12T16:33:53.917781",
+  "messages": [
+    {
+      "role": "user",
+      "content": "bonjour ",
+      "timestamp": "2025-07-12T16:33:53.916788",
+      "domain": "general"
+    },
+    {
+      "role": "assistant",
+      "content": "Bonjour ! Je suis ravi de vous aider en tant qu'assistant médical spécialisé. Comment puis-je vous assister aujourd'hui ? Avez-vous des questions ou des préoccupations concernant votre santé que vous souhaitez discuter ?",
+      "timestamp": "2025-07-12T16:33:53.916788",
+      "domain": "general"
+    }
+  ]
+}

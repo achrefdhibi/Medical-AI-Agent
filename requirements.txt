@@ -1,0 +1,11 @@
+streamlit==1.38.0
+torch==2.3.1
+sentence-transformers==3.0.1
+langgraph==0.2.5
+langchain-groq==0.1.9
+langchain==0.2.16
+pdfplumber==0.11.4
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+numpy==1.26.4
+typing-extensions==4.12.2
