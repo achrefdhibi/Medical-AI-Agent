@@ -69,7 +69,7 @@ GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Pour exécuter le projet, lance simplement :
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 L'agent sera alors prêt à répondre, utiliser des outils et exécuter les instructions dynamiquement à travers LangGraph.
