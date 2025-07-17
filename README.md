@@ -1,7 +1,26 @@
+# 🧠 Medical AI Agent – Powered by LangGraph & LangChain
 
-# 🤖 AI Agent using LangGraph & LangChain
+Ce projet présente un **agent d’intelligence artificielle spécialisé dans le domaine médical**, conçu avec **LangGraph** et **LangChain**.  
+Il est capable de dialoguer intelligemment avec les utilisateurs, de comprendre leurs besoins en matière de santé, et de leur fournir des réponses précises, fiables et contextualisées.
 
-Ce projet est un **AI Agent intelligent** construit avec [LangGraph](https://github.com/langchain-ai/langgraph) et [LangChain](https://github.com/langchain-ai/langchain), conçu pour interagir dynamiquement avec les utilisateurs en utilisant des outils puissants et une architecture de type agent.
+## 🚀 Fonctionnalités clés
+
+-  Compréhension du langage naturel (NLP) pour analyser les demandes médicales.
+- 🤖 Architecture intelligente de type **ReAct Agent**.
+- Intégration d’outils médicaux et de bases de connaissances fiables.
+- 💬 Interaction dynamique et contextualisée avec les utilisateurs.
+- 🧠 Système de mémoire conversationnelle pour un meilleur suivi personnalisé.
+
+## Objectifs du projet
+
+Ce projet vise à démontrer comment les **agents IA** peuvent être utilisés dans le **secteur médical** pour assister les utilisateurs, améliorer la précision des informations fournies, et offrir un service plus intelligent, accessible et réactif.
+
+## Technologies utilisées
+
+- [LangGraph](https://www.langgraph.dev/)
+- [LangChain](https://www.langchain.com/)
+- Python 🐍
+- LLM 
 
 ---
 
