@@ -23,7 +23,7 @@ This project aims to demonstrate how AI agents can be used in the medical sector
 ## 🛠️ Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/medical-ai-agent.git
+   git clone https://github.com/achrefdhibi/medical-ai-agent.git
    cd medical-ai-agent
    ```
 
