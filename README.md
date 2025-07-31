@@ -1,86 +1,33 @@
 # 🧠 Medical AI Agent – Powered by LangGraph & LangChain
 
-Ce projet présente un **agent d’intelligence artificielle spécialisé dans le domaine médical**, conçu avec **LangGraph** et **LangChain**.  
-Il est capable de dialoguer intelligemment avec les utilisateurs, de comprendre leurs besoins en matière de santé, et de leur fournir des réponses précises, fiables et contextualisées.
+This project introduces an **artificial intelligence agent specialized in the medical field**, built using **LangGraph** and **LangChain**.  
+It can intelligently converse with users, understand their healthcare needs, and provide accurate, reliable, and contextualized responses.
 
-## 🚀 Fonctionnalités clés
+## 🚀 Key Features
 
--  Compréhension du langage naturel (NLP) pour analyser les demandes médicales.
-- 🤖 Architecture intelligente de type **ReAct Agent**.
-- Intégration d’outils médicaux et de bases de connaissances fiables.
-- 💬 Interaction dynamique et contextualisée avec les utilisateurs.
-- 🧠 Système de mémoire conversationnelle pour un meilleur suivi personnalisé.
+- Natural Language Processing (NLP) to analyze medical requests  
+- 🤖 Intelligent architecture based on the **ReAct Agent** model  
+- Integration of medical tools and trustworthy knowledge bases  
+- 💬 Dynamic and contextual interaction with users  
+- 🧠 Conversational memory system for better personalized follow-up  
 
-## Objectifs du projet
+## 🎯 Project Objectives
 
-Ce projet vise à démontrer comment les **agents IA** peuvent être utilisés dans le **secteur médical** pour assister les utilisateurs, améliorer la précision des informations fournies, et offrir un service plus intelligent, accessible et réactif.
+This project aims to demonstrate how **AI agents** can be used in the **medical sector** to assist users, improve the accuracy of information provided, and offer a smarter, more accessible, and more responsive service.
 
-## Technologies utilisées
+## 🧰 Technologies Used
 
-- [LangGraph](https://www.langgraph.dev/)
-- [LangChain](https://www.langchain.com/)
-- Python 🐍
-- LLM 
-
----
-
+- [LangGraph](https://www.langgraph.dev/)  
+- [LangChain](https://www.langchain.com/)  
+- [Python](https://www.python.org/) 
+- LLM  
 
 ---
 
-## Installation
+## 🛠️ Installation
 
-### 1. Cloner le dépôt
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
-cd nom-du-repo
-````
-
-### 2. Créer un environnement virtuel 
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-```
-
-### 3. Installer les dépendances
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🔐 Configuration de l'API Key
-
-Tu dois créer un fichier `.env` à la racine du projet et y ajouter ta clé API Groq :
-
-```
-GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
-> Remplace `sk-xxxxxxxx...` par ta clé réelle.
-
----
-
-## 🚀 Lancer le projet
-
-Pour exécuter le projet, lance simplement :
-
-```bash
-streamlit run main.py
-```
-
-L'agent sera alors prêt à répondre, utiliser des outils et exécuter les instructions dynamiquement à travers LangGraph.
-
----
-
-## 🛠️ Technologies utilisées
-
-* **LangGraph** : Orchestration des agents AI avec des graphes d’état
-* **LangChain** : Intégration avec LLMs, outils et chaînes
-* **Python 3.10+**
-* **Groq API** (ou tout autre LLM compatible)
-
-
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
